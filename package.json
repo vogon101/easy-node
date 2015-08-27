@@ -1,0 +1,15 @@
+{
+  "name": "easy-node",
+  "version": "1.0.0",
+  "description": "Useful node.js utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "Freddie Poser <freddie.poser@gmail.com> (http://www.vogonjeltz.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
